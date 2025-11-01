@@ -7,7 +7,8 @@ It covers the entire data lifecycle — from ingestion to transformation and rep
 
 The goal is to design a **modern data architecture** that ensures scalability, automation, and efficient analytics on cloud-based data.
 
----![pipeline](https://github.com/user-attachments/assets/aec58a42-ae80-427b-85da-7b66290a2b60)
+---![pipelineg](https://github.com/user-attachments/assets/bb3475db-b670-40aa-9fe3-0d4987245e26)
+
 
 
 ## 🏗️ Architecture Diagram
